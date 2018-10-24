@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<enevlop>
+  <data>
+    <Product>
+      <ProductNumber>D123</ProductNumber>
+      <ProductMainCategory>jacket</ProductMainCategory>
+      <ProductBrand>NewBrand</ProductBrand>
+      <ProductShortDescription>
+        <string>
+          <value language="en">
+            <![CDATA[Softshell with additional ventilation openings]]>
+          </value>
+          <value language="de">
+            <![CDATA[Softshell mit zusätzlichen Lüftungsöffnungen]]>
+          </value>
+          <value language="da">
+            <![CDATA[Softshell med ekstra ventilationsåbninger]]>
+          </value>
+          <value language="fr">
+            <![CDATA[Softshell avec des ouvertures d'aération supplémentaires]]>
+          </value>
+          <value language="sv">
+            <![CDATA[Softshell med extra ventilationsöppningar]]>
+          </value>
+          <value language="fi">
+            <![CDATA[Softshell med ekstra ventilationsåbninger]]>
+          </value>
+        </string>
+      </ProductShortDescription> 
+    </Product>
+    <Item>
+      <ItemNumber>DD15</ItemNumber>
+    </Item>
+  </data>
+</enevlop>

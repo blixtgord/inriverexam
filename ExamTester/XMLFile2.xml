@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<enevlop>
+  <data>
+    <Product>
+      <ProductNumber>D123</ProductNumber>
+      <ProductApproved>1</ProductApproved>
+      <ProductBrand>NewBrand</ProductBrand>
+    </Product>
+    <Item>
+      <ItemNumber>DD15</ItemNumber>
+    </Item>
+  </data>
+</enevlop>

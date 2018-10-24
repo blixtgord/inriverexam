@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportExam", "ImportExam\ImportExam.csproj", "{BC887FF6-22F0-4448-820F-7A8F86B55D90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamTester", "ExamTester\ExamTester.csproj", "{B6E2FC55-0390-4926-9B45-D8276ACB8ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC887FF6-22F0-4448-820F-7A8F86B55D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC887FF6-22F0-4448-820F-7A8F86B55D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC887FF6-22F0-4448-820F-7A8F86B55D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC887FF6-22F0-4448-820F-7A8F86B55D90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E2FC55-0390-4926-9B45-D8276ACB8ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E2FC55-0390-4926-9B45-D8276ACB8ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E2FC55-0390-4926-9B45-D8276ACB8ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E2FC55-0390-4926-9B45-D8276ACB8ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

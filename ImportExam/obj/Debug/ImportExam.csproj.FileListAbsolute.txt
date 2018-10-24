@@ -1,0 +1,12 @@
+C:\projects\Inriver training\InboundExam\ImportExam\bin\Debug\ImportExam.dll
+C:\projects\Inriver training\InboundExam\ImportExam\bin\Debug\ImportExam.pdb
+C:\projects\Inriver training\InboundExam\ImportExam\bin\Debug\Antlr3.Runtime.dll
+C:\projects\Inriver training\InboundExam\ImportExam\bin\Debug\inRiver.Remoting.dll
+C:\projects\Inriver training\InboundExam\ImportExam\bin\Debug\Newtonsoft.Json.dll
+C:\projects\Inriver training\InboundExam\ImportExam\bin\Debug\Antlr3.Runtime.pdb
+C:\projects\Inriver training\InboundExam\ImportExam\bin\Debug\Newtonsoft.Json.xml
+C:\projects\Inriver training\InboundExam\ImportExam\obj\Debug\ImportExam.csprojAssemblyReference.cache
+C:\projects\Inriver training\InboundExam\ImportExam\obj\Debug\ImportExam.csproj.CoreCompileInputs.cache
+C:\projects\Inriver training\InboundExam\ImportExam\obj\Debug\ImportExam.csproj.CopyComplete
+C:\projects\Inriver training\InboundExam\ImportExam\obj\Debug\ImportExam.dll
+C:\projects\Inriver training\InboundExam\ImportExam\obj\Debug\ImportExam.pdb

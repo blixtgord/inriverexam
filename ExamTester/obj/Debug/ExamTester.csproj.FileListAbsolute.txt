@@ -1,0 +1,15 @@
+C:\projects\Inriver training\InboundExam\ExamTester\bin\Debug\ExamTester.exe.config
+C:\projects\Inriver training\InboundExam\ExamTester\bin\Debug\ExamTester.exe
+C:\projects\Inriver training\InboundExam\ExamTester\bin\Debug\ExamTester.pdb
+C:\projects\Inriver training\InboundExam\ExamTester\bin\Debug\Antlr3.Runtime.dll
+C:\projects\Inriver training\InboundExam\ExamTester\bin\Debug\ImportExam.dll
+C:\projects\Inriver training\InboundExam\ExamTester\bin\Debug\inRiver.Remoting.dll
+C:\projects\Inriver training\InboundExam\ExamTester\bin\Debug\Newtonsoft.Json.dll
+C:\projects\Inriver training\InboundExam\ExamTester\bin\Debug\ImportExam.pdb
+C:\projects\Inriver training\InboundExam\ExamTester\bin\Debug\Antlr3.Runtime.pdb
+C:\projects\Inriver training\InboundExam\ExamTester\bin\Debug\Newtonsoft.Json.xml
+C:\projects\Inriver training\InboundExam\ExamTester\obj\Debug\ExamTester.csprojAssemblyReference.cache
+C:\projects\Inriver training\InboundExam\ExamTester\obj\Debug\ExamTester.csproj.CoreCompileInputs.cache
+C:\projects\Inriver training\InboundExam\ExamTester\obj\Debug\ExamTester.csproj.CopyComplete
+C:\projects\Inriver training\InboundExam\ExamTester\obj\Debug\ExamTester.exe
+C:\projects\Inriver training\InboundExam\ExamTester\obj\Debug\ExamTester.pdb
